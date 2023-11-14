@@ -7,6 +7,6 @@ import { CommonModule } from '@angular/common';
   templateUrl: './users.component.html',
   styles: ``
 })
-export class UsersComponent {
+export default class UsersComponent {
 
 }
